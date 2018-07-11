@@ -1,10 +1,8 @@
 # Portfolio
 
-## HealthyAisles
+## Studio Designer
 
-Nutrition image repository manager, used to upload, quality control, compare and manage
-studio shots of images.
+Project that was assigned to me, which over the course of several years, was able to replace our exiting use of Adobe InDesign to design, manipulate and test graphical layouts of in-store signage.
 
-Written in Silverlight, using a plugin style view-loader, this communicated with
-several WCF services; used a map-based control to pinpoint stores and items; and handled
-multiple user sessions with locking style data management.
+Built to support layering, complex typographics, pdf/esp images with and without cropping, shapes and a number of expected behavior our normal users would expect to find in off-the-shelf image editors
+
